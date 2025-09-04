@@ -1,0 +1,12 @@
+{
+  "BigQuery Schema": [
+    { "name": "EmployeeID", "type": "INTEGER" },
+    { "name": "FirstName", "type": "STRING" },
+    { "name": "LastName", "type": "STRING" },
+    { "name": "Department", "type": "STRING" },
+    { "name": "Position", "type": "STRING" },
+    { "name": "Salary", "type": "INTEGER" },
+    { "name": "JoiningDate", "type": "DATE" },
+    { "name": "Country", "type": "STRING" }
+  ]
+}
